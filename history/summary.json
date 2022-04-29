@@ -59,11 +59,11 @@
     "icon": "https://components.kidow.me/favicon.ico",
     "slug": "components",
     "status": "up",
-    "uptime": "84.40%",
-    "uptimeDay": "84.40%",
-    "uptimeWeek": "84.40%",
-    "uptimeMonth": "84.40%",
-    "uptimeYear": "84.40%",
+    "uptime": "87.90%",
+    "uptimeDay": "87.90%",
+    "uptimeWeek": "87.90%",
+    "uptimeMonth": "87.90%",
+    "uptimeYear": "87.90%",
     "time": 240,
     "timeDay": 240,
     "timeWeek": 240,
@@ -78,19 +78,19 @@
     "url": "https://log.kidow.me",
     "icon": "https://log.kidow.me/favicon.ico",
     "slug": "log",
-    "status": "up",
-    "uptime": "47.16%",
-    "uptimeDay": "47.16%",
-    "uptimeWeek": "47.16%",
-    "uptimeMonth": "47.16%",
-    "uptimeYear": "47.16%",
+    "status": "down",
+    "uptime": "58.78%",
+    "uptimeDay": "58.78%",
+    "uptimeWeek": "58.78%",
+    "uptimeMonth": "58.78%",
+    "uptimeYear": "58.78%",
     "time": 589,
     "timeDay": 589,
     "timeWeek": 589,
     "timeMonth": 589,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2022-04-29": 48
+      "2022-04-29": 49
     }
   },
   {
@@ -98,18 +98,20 @@
     "url": "https://memo.kidow.me",
     "icon": "https://memo.kidow.me/favicon.ico",
     "slug": "memo",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.33%",
+    "uptimeDay": "98.33%",
+    "uptimeWeek": "98.33%",
+    "uptimeMonth": "98.33%",
+    "uptimeYear": "98.33%",
     "time": 613,
     "timeDay": 613,
     "timeWeek": 613,
     "timeMonth": 613,
     "timeYear": 613,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-29": 1
+    }
   },
   {
     "name": "opengraph.",
@@ -117,19 +119,17 @@
     "icon": "https://opengraph.kidow.me/favicon.ico",
     "slug": "opengraph",
     "status": "up",
-    "uptime": "83.76%",
-    "uptimeDay": "83.76%",
-    "uptimeWeek": "83.76%",
-    "uptimeMonth": "83.76%",
-    "uptimeYear": "83.76%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 516,
     "timeDay": 516,
     "timeWeek": 516,
     "timeMonth": 516,
     "timeYear": 516,
-    "dailyMinutesDown": {
-      "2022-04-29": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "portal.",
