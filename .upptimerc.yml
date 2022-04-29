@@ -1,27 +1,83 @@
-owner: kidow 
+owner: kidow
 repo: status
 
 sites:
   - name: admin.
     url: https://admin.kidow.me
+    icon: https://admin.kidow.me/favicon.ico
   - name: archive.
     url: https://archive.kidow.me
+    icon: https://archive.kidow.me/img/favicon.ico
   - name: blog.
     url: https://blog.kidow.me
+    icon: https://blog.kidow.me/favicon.ico
   - name: components.
     url: https://components.kidow.me
+    icon: https://components.kidow.me/favicon.ico
   - name: log.
     url: https://log.kidow.me
+    icon: https://log.kidow.me/favicon.ico
+  - name: memo.
+    url: https://memo.kidow.me
+    icon: https://memo.kidow.me/favicon.ico
   - name: opengraph.
     url: https://opengraph.kidow.me
+    icon: https://opengraph.kidow.me/favicon.ico
   - name: portal.
     url: https://portal.kidow.me
+    icon: https://portal.kidow.me/favicon.ico
   - name: resume.
     url: https://resume.kidow.me
+    icon: https://raw.githubusercontent.com/kidow/resume/main/static/favicon.ico
   - name: www.
     url: https://www.kidow.me
+    icon: https://www.kidow.me/favicon.ico
 
 status-website:
   cname: status.kidow.me
-  logoUrl: https://raw.githubusercontent.com/kidow/status/875a552b5b4d21cffa8ad059b75891d747abf452/assets/logo.svg
+  faviconSvg: https://raw.githubusercontent.com/kidow/status/875a552b5b4d21cffa8ad059b75891d747abf452/assets/logo.svg
   name: kidow's status of projects
+  theme: night
+  metaTags:
+    - name: "robots"
+      content: "index, follow"
+    - name: "keywords"
+      content: "upptime, status, gh-pages"
+    - name: "description"
+      content: "웹 개발자 Kidow의 프로젝트 헬스 체크"
+    - name: "author"
+      content: "김동욱"
+    - name: "theme-color"
+      content: "#84CC16"
+    - name: "google-site-verification"
+      content: "4QuiQU2-rptI4mjJ9wXceckV1MlAAjEzp7kmWJA4F5o"
+    - name: "naver-site-verification"
+      content: "5e30e9ac2ce1eb508adfde1370a59d23bc2198ce"
+    - name: "og:title"
+      content: "Status - Kidow"
+    - name: "og:description"
+      content: "웹 개발자 Kidow의 프로젝트 헬스 체크"
+    - name: "og:site_name"
+      content: "Web Developer Kidow's Health Check"
+    - name: "og:type"
+      content: "website"
+    - name: "og:image"
+      content: "https://opengraph.kidow.me/api?id=od5abel4u"
+    - name: "og:locale"
+      content: "ko_KR"
+    - name: "og:url"
+      content: "https://status.kidow.me"
+    - name: "twitter:card"
+      content: "summary_large_image"
+    - name: "twitter:title"
+      content: "Status - Kidow"
+    - name: "twitter:description"
+      content: "웹 개발자 Kidow의 프로젝트 헬스 체크"
+    - name: "twitter:image"
+      content: "https://opengraph.kidow.me/api?id=od5abel4u"
+    - name: "twitter:domain"
+      content: "https://status.kidow.me"
+  links:
+    - rel: canonical
+      href: https://status.kidow.me
+  customHeadHtml: "<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TFHQLMX');</script>"
