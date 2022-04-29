@@ -58,19 +58,19 @@
     "url": "https://components.kidow.me",
     "icon": "https://components.kidow.me/favicon.ico",
     "slug": "components",
-    "status": "down",
-    "uptime": "68.51%",
-    "uptimeDay": "68.51%",
-    "uptimeWeek": "68.51%",
-    "uptimeMonth": "68.51%",
-    "uptimeYear": "68.51%",
-    "time": 172,
-    "timeDay": 172,
-    "timeWeek": 172,
-    "timeMonth": 172,
-    "timeYear": 172,
+    "status": "up",
+    "uptime": "64.64%",
+    "uptimeDay": "64.64%",
+    "uptimeWeek": "64.64%",
+    "uptimeMonth": "64.64%",
+    "uptimeYear": "64.64%",
+    "time": 156,
+    "timeDay": 156,
+    "timeWeek": 156,
+    "timeMonth": 156,
+    "timeYear": 156,
     "dailyMinutesDown": {
-      "2022-04-29": 106
+      "2022-04-29": 128
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://log.kidow.me/favicon.ico",
     "slug": "log",
     "status": "up",
-    "uptime": "77.61%",
-    "uptimeDay": "77.61%",
-    "uptimeWeek": "77.61%",
-    "uptimeMonth": "77.61%",
-    "uptimeYear": "77.61%",
+    "uptime": "82.04%",
+    "uptimeDay": "82.04%",
+    "uptimeWeek": "82.04%",
+    "uptimeMonth": "82.04%",
+    "uptimeYear": "82.04%",
     "time": 229,
     "timeDay": 229,
     "timeWeek": 229,
     "timeMonth": 229,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2022-04-29": 74
+      "2022-04-29": 64
     }
   },
   {
@@ -98,19 +98,19 @@
     "url": "https://memo.kidow.me",
     "icon": "https://memo.kidow.me/favicon.ico",
     "slug": "memo",
-    "status": "up",
-    "uptime": "86.60%",
-    "uptimeDay": "86.60%",
-    "uptimeWeek": "86.60%",
-    "uptimeMonth": "86.60%",
-    "uptimeYear": "86.60%",
+    "status": "down",
+    "uptime": "87.23%",
+    "uptimeDay": "87.23%",
+    "uptimeWeek": "87.23%",
+    "uptimeMonth": "87.23%",
+    "uptimeYear": "87.23%",
     "time": 197,
     "timeDay": 197,
     "timeWeek": 197,
     "timeMonth": 197,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2022-04-29": 34
+      "2022-04-29": 35
     }
   },
   {
@@ -118,19 +118,19 @@
     "url": "https://opengraph.kidow.me",
     "icon": "https://opengraph.kidow.me/favicon.ico",
     "slug": "opengraph",
-    "status": "up",
-    "uptime": "88.73%",
-    "uptimeDay": "88.73%",
-    "uptimeWeek": "88.73%",
-    "uptimeMonth": "88.73%",
-    "uptimeYear": "88.73%",
+    "status": "down",
+    "uptime": "89.24%",
+    "uptimeDay": "89.24%",
+    "uptimeWeek": "89.24%",
+    "uptimeMonth": "89.24%",
+    "uptimeYear": "89.24%",
     "time": 280,
     "timeDay": 280,
     "timeWeek": 280,
     "timeMonth": 280,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2022-04-29": 37
+      "2022-04-29": 38
     }
   },
   {
@@ -156,18 +156,20 @@
     "url": "https://resume.kidow.me",
     "icon": "https://raw.githubusercontent.com/kidow/resume/main/static/favicon.ico",
     "slug": "resume",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 323,
     "timeDay": 323,
     "timeWeek": 323,
     "timeMonth": 323,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-29": 0
+    }
   },
   {
     "name": "www.",
