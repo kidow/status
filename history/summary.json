@@ -58,19 +58,19 @@
     "url": "https://components.kidow.me",
     "icon": "https://components.kidow.me/favicon.ico",
     "slug": "components",
-    "status": "up",
-    "uptime": "70.11%",
-    "uptimeDay": "70.11%",
-    "uptimeWeek": "70.11%",
-    "uptimeMonth": "70.11%",
-    "uptimeYear": "70.11%",
+    "status": "down",
+    "uptime": "70.92%",
+    "uptimeDay": "70.92%",
+    "uptimeWeek": "70.92%",
+    "uptimeMonth": "70.92%",
+    "uptimeYear": "70.92%",
     "time": 200,
     "timeDay": 200,
     "timeWeek": 200,
     "timeMonth": 200,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2022-04-29": 79
+      "2022-04-29": 80
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://log.kidow.me/favicon.ico",
     "slug": "log",
     "status": "up",
-    "uptime": "71.72%",
-    "uptimeDay": "71.72%",
-    "uptimeWeek": "71.72%",
-    "uptimeMonth": "71.72%",
-    "uptimeYear": "71.72%",
+    "uptime": "76.33%",
+    "uptimeDay": "76.33%",
+    "uptimeWeek": "76.33%",
+    "uptimeMonth": "76.33%",
+    "uptimeYear": "76.33%",
     "time": 266,
     "timeDay": 266,
     "timeWeek": 266,
     "timeMonth": 266,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2022-04-29": 73
+      "2022-04-29": 64
     }
   },
   {
@@ -99,11 +99,11 @@
     "icon": "https://memo.kidow.me/favicon.ico",
     "slug": "memo",
     "status": "up",
-    "uptime": "81.24%",
-    "uptimeDay": "81.24%",
-    "uptimeWeek": "81.24%",
-    "uptimeMonth": "81.24%",
-    "uptimeYear": "81.24%",
+    "uptime": "82.28%",
+    "uptimeDay": "82.28%",
+    "uptimeWeek": "82.28%",
+    "uptimeMonth": "82.28%",
+    "uptimeYear": "82.28%",
     "time": 197,
     "timeDay": 197,
     "timeWeek": 197,
@@ -119,18 +119,18 @@
     "icon": "https://opengraph.kidow.me/favicon.ico",
     "slug": "opengraph",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "95.95%",
+    "uptimeDay": "95.95%",
+    "uptimeWeek": "95.95%",
+    "uptimeMonth": "95.95%",
+    "uptimeYear": "95.95%",
     "time": 516,
     "timeDay": 516,
     "timeWeek": 516,
     "timeMonth": 516,
     "timeYear": 516,
     "dailyMinutesDown": {
-      "2022-04-29": 0
+      "2022-04-29": 11
     }
   },
   {
