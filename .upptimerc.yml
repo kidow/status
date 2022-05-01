@@ -14,6 +14,9 @@ sites:
   - name: components.
     url: https://components.kidow.me
     icon: https://components.kidow.me/favicon.ico
+  - name: explore.
+    url: https://explore.kidow.me
+    icon: https://explore.kidow.me/favicon.ico
   - name: log.
     url: https://log.kidow.me
     icon: https://log.kidow.me/favicon.ico
